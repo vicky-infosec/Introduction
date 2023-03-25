@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📬 Connect with me:
 [![GitHub Leena](https://img.shields.io/github/followers/leena-talreja?label=follow&style=social)](https://github.com/leenatalreja)
-[![Linkedin: Leena Talreja](https://img.shields.io/badge/-leena%20talreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-talreja/)](https://www.linkedin.com/in/leena-talreja/)
+[![Linkedin: Vicky Talreja](https://img.shields.io/badge/-leena%20talreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/[https://www.linkedin.com/in/vickytalreja372/](https://www.linkedin.com/in/vickytalreja372/))](https://[www.linkedin.com/in/leena-talreja/](https://www.linkedin.com/in/vickytalreja372/))
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leena.id&left_color=green&right_color=blue)
 
 <br />
